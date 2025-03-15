@@ -1,0 +1,4 @@
+interface Trabajador 
+{
+  Double pay();
+}
